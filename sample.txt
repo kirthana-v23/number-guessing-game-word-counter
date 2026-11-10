@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is easy to learn and easy to use.
+Programming helps us solve real world problems.
+Learning Python is a good way to start programming.
